@@ -2,7 +2,7 @@ package com.example.examples.model
 
 class SuperHeroProvider {
     companion object {
-        val SuperHeroList = listOf(
+        val superHeroList = listOf(
             SuperHero(
                 "Spiderman",
                 "Marvel",
